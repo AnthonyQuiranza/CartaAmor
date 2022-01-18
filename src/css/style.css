@@ -1,0 +1,34 @@
+body {
+    font: 20px "Source Sans Pro", Arial, Helvetica, sans-serif;
+    background-color: #e8c3b9;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    vertical-align: middle;
+  }
+.card-img-top{
+    width: 20%;
+    margin: auto;
+}
+.card{
+    margin: 5%;
+}
+.Letter{
+    background-image: url('../images/1.png');
+    width: 90%;
+    margin: auto;
+}
+#typed-strings{
+    width: 90%;
+}
+#typedTitle{
+    font-weight: bold;
+}
+.reproductor{
+    margin: auto;
+}
+.green-audio-player{
+    width: 30%;
+    min-width: 100%;
+}
